@@ -1427,3 +1427,33 @@ body.offcanvas {
 
 .js .animate-box {
   opacity: 0; }
+.work-tile {
+    background-color: #4A90E2; /* Default background color */
+    padding: 20px;
+    border-radius: 10px; /* Rounded corners */
+    color: white; /* Text color */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Shadow effect */
+    margin-bottom: 20px; /* Space between tiles */
+}
+
+.project1 {
+    background-color: #4A90E2; /* Blue */
+}
+
+.project2 {
+    background-color: #E94E77; /* Pink */
+}
+
+.project3 {
+    background-color: #50E3C2; /* Teal */
+}
+
+.project4 {
+    background-color: #F39C12; /* Orange */
+}
+
+/* Button styling */
+.btn {
+    margin-top: 10px; /* Space above the button */
+}
+
