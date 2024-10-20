@@ -36,4 +36,5 @@ Contributions are welcome! If you have suggestions for improvements or find bugs
 For any inquiries or collaboration opportunities, feel free to reach out to me:
 
 Email: susmik685@example.com
-GitHub: https://github.com/SusmithaKommula
+
+GitHub: https://github.com/Susmitha-K13
